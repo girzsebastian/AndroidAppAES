@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "470954525478",
+    "firebase_url": "https://androidappaes.firebaseio.com",
+    "project_id": "androidappaes",
+    "storage_bucket": "androidappaes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470954525478:android:6a8e8e0c4030fa83aeb7e7",
+        "android_client_info": {
+          "package_name": "com.example.androidappaes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470954525478-q3ieopnna9180u269q792sgl36nfv7k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidappaes",
+            "certificate_hash": "7c63592a89e030f766d59a1dc8cac31c3edea977"
+          }
+        },
+        {
+          "client_id": "470954525478-0gfj8pcq7j7onfurm6ivi9kg88mllell.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj4al4snzeokJukuW39zhnAMoD8xFJCv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470954525478-0gfj8pcq7j7onfurm6ivi9kg88mllell.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
