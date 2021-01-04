@@ -1,4 +1,4 @@
-package com.example.androidappaes;
+package com.example.aestest;
 
 import org.junit.Test;
 
